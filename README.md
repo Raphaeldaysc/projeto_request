@@ -54,12 +54,16 @@ Classe para:
 ## 🧪 Exemplo de Output
 
 ```bash
+# Amostra de dados coletados (Amazon)
 Nome: aws-sdk-java, URL: https://github.com/amzn/aws-sdk-java, Linguagem: Java  
 Descrição: The Amazon Web Services SDK for Java.  
 ----------------------------------------  
 Nome: ion-java, URL: https://github.com/amzn/ion-java, Linguagem: Java  
 Descrição: A Java implementation of Amazon Ion.  
 ----------------------------------------
+```
+
+
 ## 📁 Arquivos Gerados
 
 - linguagens_amazon.csv
