@@ -94,12 +94,6 @@ Automatização de uploads via requests + base64
 
 Estruturação com POO e organização em classes reutilizáveis
 
-🧑‍💻 Autor
-Raphael Dias Câmara
-🔗 LinkedIn
-📬 rphldev@gmail.com
-🌎 Natal, RN — Brasil
-
 📌 Observações
 Este projeto foi inspirado no curso da Alura sobre coleta de dados com APIs e Python, mas foi totalmente adaptado, estendido e estruturado para uso prático no contexto de engenharia de dados.
 ## 🧠 Aprendizados
@@ -113,6 +107,6 @@ Este projeto foi inspirado no curso da Alura sobre coleta de dados com APIs e Py
 ## 🧑‍💻 Autor
 
 - **Raphael Dias Câmara**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/raphaeldias/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/raphael-dias-camara/)
 - 📬 rphldev@gmail.com
-- 🌎 Natal, RN — Brasil
+- 🌎 Brasil
